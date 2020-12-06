@@ -1,6 +1,6 @@
 /**
  * dat-gui JavaScript Controller Library
- * http://code.google.com/p/dat-gui
+ * https://github.com/dataarts/dat.gui
  *
  * Copyright 2011 Data Arts Team, Google Creative Lab
  *
@@ -32,7 +32,8 @@ const INTERPRETATIONS = [
               '0x' +
               test[1].toString() + test[1].toString() +
               test[2].toString() + test[2].toString() +
-              test[3].toString() + test[3].toString(), 0)
+              test[3].toString() + test[3].toString(), 0
+            )
           };
         },
 
